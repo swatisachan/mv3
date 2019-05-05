@@ -10,6 +10,7 @@
        <class name="sele1.mv2.NewTest1"/>
        <class name="sele1.mv2.NewTest2"/>
         <class name="sele1.mv2.NewTest3"/>
+         <class name="sele1.mv2.NewTest4"/>
       </classes>
    </test>
 </suite>
